@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Node.js & DSA**
 
-- 🎯 Goal **Become a great problem solver & builder**
+- 🎯 Goal: **Become a great problem solver & builder**
 
-- 💡 Motto **Code. Meditate. Elevate.**
+- 💡 Motto: **Code. Meditate. Elevate.**
 
 - 📫 How to reach me **theniladrighosh@gmail.com**
 
