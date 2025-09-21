@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theniladrighosh&label=Profile%20views&color=0e75b6&style=flat" alt="theniladrighosh" /> </p>
 
-- 🌱 I’m currently learning **MongoDB & DSA**
+- 🌱 I’m currently learning **MERN & DSA**
 
 - 🎯 Goal: **Become a great problem solver & builder**
 
